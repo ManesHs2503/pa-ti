@@ -1,0 +1,25 @@
+.caja-padre{
+    border: solid 3px pink;
+    height:75% ;
+    width: 500px; 
+    display: flex;
+    
+    
+    
+
+
+}
+
+
+
+
+
+
+.paisaje{
+    border: solid 3px blue;
+    height:20% ;
+    width:40% ;
+    display: flex;
+
+    
+}
